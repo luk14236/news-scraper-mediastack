@@ -12,5 +12,3 @@ This repository contains a Python script to scrape news articles using the Media
 ## References
 - [MediaStack API Documentation](https://mediastack.com/documentation)
 - [Original Colab Notebook](https://colab.research.google.com/drive/1J4m73Prd2Zpy2wI5CI1Hu4-9HPWN89vY)
-
-Feel free to adjust the README according to your preferences and specific project details!
